@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2009-03-10 23:00+0100\n"
+"POT-Creation-Date: 2009-06-29 20:07+0200\n"
 "PO-Revision-Date: 2008-12-30 17:34+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -36,45 +36,45 @@ msgstr ""
 msgid "Era of Strife"
 msgstr ""
 
-#. [multiplayer_side]: id=eltireans, type=Raging Mistress
-#. [multiplayer_side]: id=eltireans, type=Ladyofwar
-#. [multiplayer_side]: id=eltireans, type=Fury
+#. [multiplayer_side]: id=eltireans, type=EoS Raging Mistress
+#. [multiplayer_side]: id=eltireans, type=EoS Ladyofwar
+#. [multiplayer_side]: id=eltireans, type=EoS Fury
 #: Era_of_Strife/factions/eltirean-power.cfg:4
 #: Era_of_Strife/factions/eltirean-rpg.cfg:4
 #: Era_of_Strife/factions/eltirean-strife.cfg:4
 msgid "Eltireans"
 msgstr ""
 
-#. [multiplayer_side]: id=eventide, type=DiuKeenshot
-#. [multiplayer_side]: id=eventide, type=DiuBowMistress
-#. [multiplayer_side]: id=eventide, type=DiuBowmaid
+#. [multiplayer_side]: id=eventide, type=EoS DiuKeenshot
+#. [multiplayer_side]: id=eventide, type=EoS DiuBowMistress
+#. [multiplayer_side]: id=eventide, type=EoS DiuBowmaid
 #: Era_of_Strife/factions/eventide-power.cfg:4
 #: Era_of_Strife/factions/eventide-strife.cfg:4
 #: Era_of_Strife/factions/eventide-rpg.cfg:4
 msgid "Eventide"
 msgstr ""
 
-#. [multiplayer_side]: id=minotaurs, type=Minotaur Shaman
-#. [multiplayer_side]: id=minotaurs, type=Minotaur Mystic
-#. [multiplayer_side]: id=minotaurs, type=Minotaur Elder
+#. [multiplayer_side]: id=minotaurs, type=EoS Minotaur Shaman
+#. [multiplayer_side]: id=minotaurs, type=EoS Minotaur Mystic
+#. [multiplayer_side]: id=minotaurs, type=EoS Minotaur Elder
 #: Era_of_Strife/factions/minotaur-rpg.cfg:4
 #: Era_of_Strife/factions/minotaur-strife.cfg:4
 #: Era_of_Strife/factions/minotaur-power.cfg:4
 msgid "Minotaurs"
 msgstr ""
 
-#. [multiplayer_side]: id=saurians, type=Saurian Holy
-#. [multiplayer_side]: id=saurians, type=Saurian Mystic
-#. [multiplayer_side]: id=saurians, type=Saurian Sage
+#. [multiplayer_side]: id=saurians, type=EoS Saurian Holy
+#. [multiplayer_side]: id=saurians, type=EoS Saurian Mystic
+#. [multiplayer_side]: id=saurians, type=EoS Saurian Sage
 #: Era_of_Strife/factions/saurian-power.cfg:4
 #: Era_of_Strife/factions/saurian-strife.cfg:5
 #: Era_of_Strife/factions/saurian-rpg.cfg:4
 msgid "Free Saurians"
 msgstr ""
 
-#. [multiplayer_side]: id=triththa, type=TR Dwarvish Runesmith
-#. [multiplayer_side]: id=triththa, type=TR Dwarvish Runemaster
-#. [multiplayer_side]: id=triththa, type=TR Dwarvish Smith
+#. [multiplayer_side]: id=triththa, type=EoS Dwarvish Runesmith
+#. [multiplayer_side]: id=triththa, type=EoS Dwarvish Runemaster
+#. [multiplayer_side]: id=triththa, type=EoS Dwarvish Smith
 #: Era_of_Strife/factions/triththa-strife.cfg:4
 #: Era_of_Strife/factions/triththa-power.cfg:4
 #: Era_of_Strife/factions/triththa-rpg.cfg:4
@@ -144,13 +144,13 @@ msgid ""
 "day, and as if it were night when it is dawn."
 msgstr ""
 
-#: Era_of_Strife/macros/abilities.cfg:128
-#: Era_of_Strife/macros/abilities.cfg:131
+#: Era_of_Strife/macros/abilities.cfg:127
+#: Era_of_Strife/macros/abilities.cfg:130
 msgid "disrupts"
 msgstr ""
 
-#: Era_of_Strife/macros/abilities.cfg:130
-#: Era_of_Strife/macros/abilities.cfg:133
+#: Era_of_Strife/macros/abilities.cfg:129
+#: Era_of_Strife/macros/abilities.cfg:132
 msgid ""
 "Disrupts:\n"
 "Enemy units adjacent to this unit will have their resistances halved. "
@@ -583,12 +583,12 @@ msgid ""
 "fields, and especially in water and most of them are very slow but sturdy."
 msgstr ""
 
-#. [unit_type]: id=TR Armored Cuttle Fish, race=cuttlefish
+#. [unit_type]: id=EoS Armored Cuttle Fish, race=cuttlefish
 #: Era_of_Strife/units/cuttlefish/Armored.cfg:4
 msgid "Armored Cuttle Fish"
 msgstr ""
 
-#. [unit_type]: id=TR Armored Cuttle Fish, race=cuttlefish
+#. [unit_type]: id=EoS Armored Cuttle Fish, race=cuttlefish
 #: Era_of_Strife/units/cuttlefish/Armored.cfg:18
 msgid ""
 "Cuttle Fish are gigantic creatures of the seas. This particular one is "
@@ -596,12 +596,12 @@ msgid ""
 "also makes it significantly slower."
 msgstr ""
 
-#. [unit_type]: id=TR Young Cuttle Fish, race=cuttlefish
+#. [unit_type]: id=EoS Young Cuttle Fish, race=cuttlefish
 #: Era_of_Strife/units/cuttlefish/Young.cfg:7
 msgid "Young Cuttle Fish"
 msgstr ""
 
-#. [unit_type]: id=TR Young Cuttle Fish, race=cuttlefish
+#. [unit_type]: id=EoS Young Cuttle Fish, race=cuttlefish
 #: Era_of_Strife/units/cuttlefish/Young.cfg:22
 msgid ""
 "It is a time-honoured tradition to have bodies of water near dwarvish "
@@ -614,12 +614,12 @@ msgid ""
 "shell. Young ones still have a softer and weaker one, that has a pinkish hue."
 msgstr ""
 
-#. [unit_type]: id=TR Dwarvish Arblaster, race=dwarf
+#. [unit_type]: id=EoS Dwarvish Arblaster, race=dwarf
 #: Era_of_Strife/units/dwarves/Arblaster.cfg:4
 msgid "Dwarvish Arblaster"
 msgstr ""
 
-#. [unit_type]: id=TR Dwarvish Arblaster, race=dwarf
+#. [unit_type]: id=EoS Dwarvish Arblaster, race=dwarf
 #: Era_of_Strife/units/dwarves/Arblaster.cfg:19
 msgid ""
 "When the dwarves of Triththa turned to crossbows, it was only natural that "
@@ -628,12 +628,12 @@ msgid ""
 "that fires with tremendous force and great accuracy."
 msgstr ""
 
-#. [unit_type]: id=TR Dwarvish Armorer, race=dwarf
+#. [unit_type]: id=EoS Dwarvish Armorer, race=dwarf
 #: Era_of_Strife/units/dwarves/Armorer.cfg:4
 msgid "Dwarvish Armorer"
 msgstr ""
 
-#. [unit_type]: id=TR Dwarvish Armorer, race=dwarf
+#. [unit_type]: id=EoS Dwarvish Armorer, race=dwarf
 #: Era_of_Strife/units/dwarves/Armorer.cfg:19
 msgid ""
 "Dwarvish armorers are the driving force behind the great dwarven armies, "
@@ -641,13 +641,13 @@ msgid ""
 "to fight more effectively, though they can hold their own as well."
 msgstr ""
 
-#. [unit_type]: id=TR Dwarvish Ballista, race=mechanical
-#: Era_of_Strife/units/dwarves/Ballista.cfg:6
+#. [unit_type]: id=EoS Dwarvish Ballista, race=mechanical
+#: Era_of_Strife/units/dwarves/Ballista.cfg:5
 msgid "Dwarvish Ballista"
 msgstr ""
 
-#. [unit_type]: id=TR Dwarvish Ballista, race=mechanical
-#: Era_of_Strife/units/dwarves/Ballista.cfg:25
+#. [unit_type]: id=EoS Dwarvish Ballista, race=mechanical
+#: Era_of_Strife/units/dwarves/Ballista.cfg:24
 msgid ""
 "The ultimate crossbow, a ballista is almost guaranteed to kill anything that "
 "is hit by one of it's massive bolts. It is a large and cumbersome weapon, "
@@ -658,12 +658,12 @@ msgid ""
 "wide variety of results."
 msgstr ""
 
-#. [unit_type]: id=TR Dwarvish Charger, race=dwarf
+#. [unit_type]: id=EoS Dwarvish Charger, race=dwarf
 #: Era_of_Strife/units/dwarves/Charger.cfg:4
 msgid "Dwarvish Charger"
 msgstr ""
 
-#. [unit_type]: id=TR Dwarvish Charger, race=dwarf
+#. [unit_type]: id=EoS Dwarvish Charger, race=dwarf
 #: Era_of_Strife/units/dwarves/Charger.cfg:19
 msgid ""
 "Charging at an enemy with only a shield is dangerous business and though "
@@ -683,12 +683,12 @@ msgstr ""
 msgid "shield"
 msgstr ""
 
-#. [unit_type]: id=TR Dwarvish Compounder, race=dwarf
+#. [unit_type]: id=EoS Dwarvish Compounder, race=dwarf
 #: Era_of_Strife/units/dwarves/Compounder.cfg:4
 msgid "Dwarvish Compounder"
 msgstr ""
 
-#. [unit_type]: id=TR Dwarvish Compounder, race=dwarf
+#. [unit_type]: id=EoS Dwarvish Compounder, race=dwarf
 #: Era_of_Strife/units/dwarves/Compounder.cfg:20
 msgid ""
 "Compounder is the name given to these dwarves by their orcish enemies. It is "
@@ -700,12 +700,12 @@ msgid ""
 "unable to match."
 msgstr ""
 
-#. [unit_type]: id=TR Dwarvish Crossbowman, race=dwarf
+#. [unit_type]: id=EoS Dwarvish Crossbowman, race=dwarf
 #: Era_of_Strife/units/dwarves/Crossbowman.cfg:4
 msgid "Dwarvish Crossbowman"
 msgstr ""
 
-#. [unit_type]: id=TR Dwarvish Crossbowman, race=dwarf
+#. [unit_type]: id=EoS Dwarvish Crossbowman, race=dwarf
 #: Era_of_Strife/units/dwarves/Crossbowman.cfg:19
 msgid ""
 "With the knowledge of a thunderstick's creation long lost due to lack of "
@@ -713,12 +713,12 @@ msgid ""
 "turned to more conventional weapons."
 msgstr ""
 
-#. [unit_type]: id=TR Dwarvish Defender, race=dwarf
+#. [unit_type]: id=EoS Dwarvish Defender, race=dwarf
 #: Era_of_Strife/units/dwarves/Defender.cfg:4
 msgid "Dwarvish Defender"
 msgstr ""
 
-#. [unit_type]: id=TR Dwarvish Defender, race=dwarf
+#. [unit_type]: id=EoS Dwarvish Defender, race=dwarf
 #: Era_of_Strife/units/dwarves/Defender.cfg:25
 msgid ""
 "The pinnacle of dwarvish Guards, defenders carry specially crafted runic "
@@ -726,12 +726,12 @@ msgid ""
 "have taken, even by magic users."
 msgstr ""
 
-#. [unit_type]: id=TR Dwarvish Guard, race=dwarf
+#. [unit_type]: id=EoS Dwarvish Guard, race=dwarf
 #: Era_of_Strife/units/dwarves/Guard.cfg:4
 msgid "Dwarvish Guard"
 msgstr ""
 
-#. [unit_type]: id=TR Dwarvish Guard, race=dwarf
+#. [unit_type]: id=EoS Dwarvish Guard, race=dwarf
 #: Era_of_Strife/units/dwarves/Guard.cfg:24
 msgid ""
 "It is after numerous battles that an experienced Shieldman is awarded the "
@@ -740,12 +740,12 @@ msgid ""
 "emplacement is no easy task."
 msgstr ""
 
-#. [unit_type]: id=TR Dwarvish Linebreaker, race=dwarf
+#. [unit_type]: id=EoS Dwarvish Linebreaker, race=dwarf
 #: Era_of_Strife/units/dwarves/Linebreaker.cfg:4
 msgid "Dwarvish Linebreaker"
 msgstr ""
 
-#. [unit_type]: id=TR Dwarvish Linebreaker, race=dwarf
+#. [unit_type]: id=EoS Dwarvish Linebreaker, race=dwarf
 #: Era_of_Strife/units/dwarves/Linebreaker.cfg:20
 msgid ""
 "Easily as skilled ordinary fighters with the axe, linebreakers are difficult "
@@ -754,12 +754,12 @@ msgid ""
 "charges."
 msgstr ""
 
-#. [unit_type]: id=TR Dwarvish Plainsrider, race=mechanical
+#. [unit_type]: id=EoS Dwarvish Plainsrider, race=mechanical
 #: Era_of_Strife/units/dwarves/Plainsrider.cfg:4
 msgid "Dwarvish Plainsrider"
 msgstr ""
 
-#. [unit_type]: id=TR Dwarvish Plainsrider, race=mechanical
+#. [unit_type]: id=EoS Dwarvish Plainsrider, race=mechanical
 #: Era_of_Strife/units/dwarves/Plainsrider.cfg:23
 msgid ""
 "While through mountains, dwarvish runners are matched in speed only by "
@@ -775,12 +775,12 @@ msgid ""
 "small axe and a similar sized, slow-loading but powerful crossbow."
 msgstr ""
 
-#. [unit_type]: id=TR Dwarvish Repeater, race=dwarf
+#. [unit_type]: id=EoS Dwarvish Repeater, race=dwarf
 #: Era_of_Strife/units/dwarves/Repeater.cfg:4
 msgid "Dwarvish Repeater"
 msgstr ""
 
-#. [unit_type]: id=TR Dwarvish Repeater, race=dwarf
+#. [unit_type]: id=EoS Dwarvish Repeater, race=dwarf
 #: Era_of_Strife/units/dwarves/Repeater.cfg:19
 msgid ""
 "Many have speculated about the mysterious devices or magics that allow "
@@ -788,12 +788,12 @@ msgid ""
 "the cause, the result is an instrument that spews death at a terrifying rate."
 msgstr ""
 
-#. [unit_type]: id=TR Dwarvish Runefighter, race=dwarf
+#. [unit_type]: id=EoS Dwarvish Runefighter, race=dwarf
 #: Era_of_Strife/units/dwarves/Runefighter.cfg:4
 msgid "Dwarvish Runefighter"
 msgstr ""
 
-#. [unit_type]: id=TR Dwarvish Runefighter, race=dwarf
+#. [unit_type]: id=EoS Dwarvish Runefighter, race=dwarf
 #: Era_of_Strife/units/dwarves/Runefighter.cfg:19
 msgid ""
 "Though many fighters choose to outfit themselves with steel armor, some pick "
@@ -815,12 +815,12 @@ msgstr ""
 msgid "runic hammer"
 msgstr ""
 
-#. [unit_type]: id=TR Dwarvish Runemaster, race=dwarf
+#. [unit_type]: id=EoS Dwarvish Runemaster, race=dwarf
 #: Era_of_Strife/units/dwarves/Runemaster.cfg:4
 msgid "Dwarvish Runemaster"
 msgstr ""
 
-#. [unit_type]: id=TR Dwarvish Runemaster, race=dwarf
+#. [unit_type]: id=EoS Dwarvish Runemaster, race=dwarf
 #: Era_of_Strife/units/dwarves/Runemaster.cfg:19
 msgid ""
 "Though oft used in battle, the ability to punch straight through defences is "
@@ -834,12 +834,12 @@ msgstr ""
 msgid "lightning bolt"
 msgstr ""
 
-#. [unit_type]: id=TR Dwarvish Runesmith, race=dwarf
+#. [unit_type]: id=EoS Dwarvish Runesmith, race=dwarf
 #: Era_of_Strife/units/dwarves/Runesmith.cfg:4
 msgid "Dwarvish Runesmith"
 msgstr ""
 
-#. [unit_type]: id=TR Dwarvish Runesmith, race=dwarf
+#. [unit_type]: id=EoS Dwarvish Runesmith, race=dwarf
 #: Era_of_Strife/units/dwarves/Runesmith.cfg:18
 msgid ""
 "Skilled smiths oft apprentice themselves to runemasters to learn the art of "
@@ -848,12 +848,12 @@ msgid ""
 "of weapons, but can also be put to good use in combat."
 msgstr ""
 
-#. [unit_type]: id=TR Dwarvish Runewarrior, race=dwarf
+#. [unit_type]: id=EoS Dwarvish Runewarrior, race=dwarf
 #: Era_of_Strife/units/dwarves/Runewarrior.cfg:4
 msgid "Dwarvish Runewarrior"
 msgstr ""
 
-#. [unit_type]: id=TR Dwarvish Runewarrior, race=dwarf
+#. [unit_type]: id=EoS Dwarvish Runewarrior, race=dwarf
 #: Era_of_Strife/units/dwarves/Runewarrior.cfg:19
 msgid ""
 "Given the expense and effort of carving runes, it is rare to see them on "
@@ -867,12 +867,12 @@ msgstr ""
 msgid "runic hatchet"
 msgstr ""
 
-#. [unit_type]: id=TR Dwarvish Rusher, race=dwarf
+#. [unit_type]: id=EoS Dwarvish Rusher, race=dwarf
 #: Era_of_Strife/units/dwarves/Rusher.cfg:4
 msgid "Dwarvish Rusher"
 msgstr ""
 
-#. [unit_type]: id=TR Dwarvish Rusher, race=dwarf
+#. [unit_type]: id=EoS Dwarvish Rusher, race=dwarf
 #: Era_of_Strife/units/dwarves/Rusher.cfg:20
 msgid ""
 "The fastest dwarves are tasked with racing to important positions and "
@@ -881,12 +881,12 @@ msgid ""
 "way with their shield."
 msgstr ""
 
-#. [unit_type]: id=TR Dwarvish Shieldman, race=dwarf
+#. [unit_type]: id=EoS Dwarvish Shieldman, race=dwarf
 #: Era_of_Strife/units/dwarves/Shieldman.cfg:4
 msgid "Dwarvish Shieldman"
 msgstr ""
 
-#. [unit_type]: id=TR Dwarvish Shieldman, race=dwarf
+#. [unit_type]: id=EoS Dwarvish Shieldman, race=dwarf
 #: Era_of_Strife/units/dwarves/Shieldman.cfg:25
 msgid ""
 "The dwarves of Triththa learned long ago that defending their land depended "
@@ -894,12 +894,12 @@ msgid ""
 "this are heavy shields that can be bashed into an opponent's face."
 msgstr ""
 
-#. [unit_type]: id=TR Dwarvish Smith, race=dwarf
+#. [unit_type]: id=EoS Dwarvish Smith, race=dwarf
 #: Era_of_Strife/units/dwarves/Smith.cfg:4
 msgid "Dwarvish Smith"
 msgstr ""
 
-#. [unit_type]: id=TR Dwarvish Smith, race=dwarf
+#. [unit_type]: id=EoS Dwarvish Smith, race=dwarf
 #: Era_of_Strife/units/dwarves/Smith.cfg:19
 msgid ""
 "Smiths are the craftsmen that make the technological marvels that the "
@@ -907,48 +907,48 @@ msgid ""
 "battle, they wield their smithing hammers with unrelenting ferocity."
 msgstr ""
 
-#. [unit_type]: id=Archbishop, race=eltirean
+#. [unit_type]: id=EoS Archbishop, race=eltirean
 #: Era_of_Strife/units/eltireans/Archbishop.cfg:4
 msgid "Archbishop of Eltire"
 msgstr ""
 
-#. [unit_type]: id=Bishop, race=eltirean
-#. [unit_type]: id=Sky Captain, race=eltirean
-#. [unit_type]: id=Crusher, race=eltirean
-#. [unit_type]: id=Calmblade, race=eltirean
-#. [unit_type]: id=Wind Strider, race=windelemental
-#. [unit_type]: id=Archbishop, race=eltirean
-#. [unit_type]: id=Patrol Captain, race=eltirean
-#. [unit_type]: id=Whirlpool Lord, race=eltirean
-#. [unit_type]: id=Destroyer, race=eltirean
-#. [unit_type]: id=Lightbringer, race=eltirean
-#. [unit_type]: id=Frostwalker, race=eltirean
-#. [unit_type]: id=Hydromonger, race=eltirean
-#. [unit_type]: id=Elementalist, race=eltirean
-#. [unit_type]: id=Pyromancer, race=eltirean
-#. [unit_type]: id=Hydromancer, race=eltirean
-#. [unit_type]: id=Swamp Warrior, race=lizard
-#. [unit_type]: id=Swamp Saurian, race=lizard
-#. [unit_type]: id=Saurian Sage, race=lizard
-#. [unit_type]: id=Free Tarantula, race=monster
-#. [unit_type]: id=Saurian Ice Lord, race=lizard
-#. [unit_type]: id=Swamp Guard, race=lizard
-#. [unit_type]: id=Saurian Elementalist, race=lizard
-#. [unit_type]: id=Saurian Shockfrost, race=lizard
-#. [unit_type]: id=Swamp Fighter, race=lizard
-#. [unit_type]: id=Saurian Warrior, race=lizard
-#. [unit_type]: id=Saurian Trainee, race=lizard
-#. [unit_type]: id=Swamp Margrave, race=lizard
-#. [unit_type]: id=Saurian Lizard Rider, race=lizard
-#. [unit_type]: id=Saurian Holy, race=lizard
-#. [unit_type]: id=Saurian Mystic, race=lizard
-#. [unit_type]: id=Saurian Assassin, race=lizard
-#. [unit_type]: id=Saurian Hero, race=lizard
-#. [unit_type]: id=Saurian Killer, race=lizard
-#. [unit_type]: id=Saurian Healer, race=lizard
-#. [unit_type]: id=Saurian Lizard Master, race=lizard
-#. [unit_type]: id=Saurian Knife thrower, race=lizard
-#. [unit_type]: id=Saurian Frosty, race=lizard
+#. [unit_type]: id=EoS Bishop, race=eltirean
+#. [unit_type]: id=EoS Sky Captain, race=eltirean
+#. [unit_type]: id=EoS Crusher, race=eltirean
+#. [unit_type]: id=EoS Calmblade, race=eltirean
+#. [unit_type]: id=EoS Wind Strider, race=windelemental
+#. [unit_type]: id=EoS Archbishop, race=eltirean
+#. [unit_type]: id=EoS Patrol Captain, race=eltirean
+#. [unit_type]: id=EoS Whirlpool Lord, race=eltirean
+#. [unit_type]: id=EoS Destroyer, race=eltirean
+#. [unit_type]: id=EoS Lightbringer, race=eltirean
+#. [unit_type]: id=EoS Frostwalker, race=eltirean
+#. [unit_type]: id=EoS Hydromonger, race=eltirean
+#. [unit_type]: id=EoS Elementalist, race=eltirean
+#. [unit_type]: id=EoS Pyromancer, race=eltirean
+#. [unit_type]: id=EoS Hydromancer, race=eltirean
+#. [unit_type]: id=EoS Swamp Warrior, race=lizard
+#. [unit_type]: id=EoS Swamp Saurian, race=lizard
+#. [unit_type]: id=EoS Saurian Sage, race=lizard
+#. [unit_type]: id=EoS Tarantula, race=monster
+#. [unit_type]: id=EoS Saurian Ice Lord, race=lizard
+#. [unit_type]: id=EoS Swamp Guard, race=lizard
+#. [unit_type]: id=EoS Saurian Elementalist, race=lizard
+#. [unit_type]: id=EoS Saurian Shockfrost, race=lizard
+#. [unit_type]: id=EoS Swamp Fighter, race=lizard
+#. [unit_type]: id=EoS Saurian Warrior, race=lizard
+#. [unit_type]: id=EoS Saurian Trainee, race=lizard
+#. [unit_type]: id=EoS Swamp Margrave, race=lizard
+#. [unit_type]: id=EoS Saurian Lizard Rider, race=lizard
+#. [unit_type]: id=EoS Saurian Holy, race=lizard
+#. [unit_type]: id=EoS Saurian Mystic, race=lizard
+#. [unit_type]: id=EoS Saurian Assassin, race=lizard
+#. [unit_type]: id=EoS Saurian Hero, race=lizard
+#. [unit_type]: id=EoS Saurian Killer, race=lizard
+#. [unit_type]: id=EoS Saurian Healer, race=lizard
+#. [unit_type]: id=EoS Saurian Lizard Master, race=lizard
+#. [unit_type]: id=EoS Saurian Knife thrower, race=lizard
+#. [unit_type]: id=EoS Saurian Soulmage, race=lizard
 #: Era_of_Strife/units/eltireans/Bishop.cfg:18
 #: Era_of_Strife/units/eltireans/Sky_Captain.cfg:18
 #: Era_of_Strife/units/eltireans/Crusher.cfg:18
@@ -995,12 +995,12 @@ msgstr ""
 msgid "lightbeam"
 msgstr ""
 
-#. [unit_type]: id=Bishop, race=eltirean
+#. [unit_type]: id=EoS Bishop, race=eltirean
 #: Era_of_Strife/units/eltireans/Bishop.cfg:4
 msgid "Bishop of Eltire"
 msgstr ""
 
-#. [unit_type]: id=Calmblade, race=eltirean
+#. [unit_type]: id=EoS Calmblade, race=eltirean
 #: Era_of_Strife/units/eltireans/Calmblade.cfg:4
 msgid "Calmblade"
 msgstr ""
@@ -1011,7 +1011,7 @@ msgstr ""
 msgid "coldblade"
 msgstr ""
 
-#. [unit_type]: id=Crusher, race=eltirean
+#. [unit_type]: id=EoS Crusher, race=eltirean
 #: Era_of_Strife/units/eltireans/Crusher.cfg:4
 msgid "Crusher"
 msgstr ""
@@ -1022,15 +1022,15 @@ msgstr ""
 msgid "greatsword"
 msgstr ""
 
-#. [unit_type]: id=Dawnbringer, race=eltirean
+#. [unit_type]: id=EoS Dawnbringer, race=eltirean
 #: Era_of_Strife/units/eltireans/Dawnbringer.cfg:4
 msgid "Dawnbringer"
 msgstr ""
 
-#. [unit_type]: id=Infernal Master, race=eltirean
-#. [unit_type]: id=Dawnbringer, race=eltirean
-#. [unit_type]: id=Wind Rider, race=windelemental
-#. [unit_type]: id=Disciple, race=eltirean
+#. [unit_type]: id=EoS Infernal Master, race=eltirean
+#. [unit_type]: id=EoS Dawnbringer, race=eltirean
+#. [unit_type]: id=EoS Wind Rider, race=windelemental
+#. [unit_type]: id=EoS Disciple, race=eltirean
 #: Era_of_Strife/units/eltireans/Infernal_Master.cfg:19
 #: Era_of_Strife/units/eltireans/Dawnbringer.cfg:20
 #: Era_of_Strife/units/eltireans/Wind_Rider.cfg:18
@@ -1044,17 +1044,17 @@ msgstr ""
 msgid "lightsword"
 msgstr ""
 
-#. [unit_type]: id=Destroyer, race=eltirean
+#. [unit_type]: id=EoS Destroyer, race=eltirean
 #: Era_of_Strife/units/eltireans/Destroyer.cfg:4
 msgid "Destroyer"
 msgstr ""
 
-#. [unit_type]: id=Disciple, race=eltirean
+#. [unit_type]: id=EoS Disciple, race=eltirean
 #: Era_of_Strife/units/eltireans/Disciple.cfg:4
 msgid "Disciple of Eltire"
 msgstr ""
 
-#. [unit_type]: id=Elementalist, race=eltirean
+#. [unit_type]: id=EoS Elementalist, race=eltirean
 #: Era_of_Strife/units/eltireans/Elementalist.cfg:4
 msgid "Elementalist"
 msgstr ""
@@ -1067,17 +1067,17 @@ msgstr ""
 msgid "cold shards"
 msgstr ""
 
-#. [unit_type]: id=Frostwalker, race=eltirean
+#. [unit_type]: id=EoS Frostwalker, race=eltirean
 #: Era_of_Strife/units/eltireans/Frostwalker.cfg:4
 msgid "Frostwalker"
 msgstr ""
 
-#. [unit_type]: id=Glory Seeker, race=eltirean
+#. [unit_type]: id=EoS Glory Seeker, race=eltirean
 #: Era_of_Strife/units/eltireans/Gloryseeker.cfg:4
 msgid "Glory Seeker"
 msgstr ""
 
-#. [unit_type]: id=Glory Seeker, race=eltirean
+#. [unit_type]: id=EoS Glory Seeker, race=eltirean
 #: Era_of_Strife/units/eltireans/Gloryseeker.cfg:18
 msgid ""
 "Those that lack skill with magic or faith in the machinations of the "
@@ -1097,7 +1097,7 @@ msgstr ""
 msgid "bowgun"
 msgstr ""
 
-#. [unit_type]: id=Hydromancer, race=eltirean
+#. [unit_type]: id=EoS Hydromancer, race=eltirean
 #: Era_of_Strife/units/eltireans/Hydromancer.cfg:4
 msgid "Hydromancer"
 msgstr ""
@@ -1109,12 +1109,12 @@ msgstr ""
 msgid "hydroblast"
 msgstr ""
 
-#. [unit_type]: id=Hydromonger, race=eltirean
+#. [unit_type]: id=EoS Hydromonger, race=eltirean
 #: Era_of_Strife/units/eltireans/Hydromonger.cfg:4
 msgid "Hydromonger"
 msgstr ""
 
-#. [unit_type]: id=Infernal Master, race=eltirean
+#. [unit_type]: id=EoS Infernal Master, race=eltirean
 #: Era_of_Strife/units/eltireans/Infernal_Master.cfg:4
 msgid "Infernal Master"
 msgstr ""
@@ -1125,14 +1125,14 @@ msgstr ""
 msgid "firestaff"
 msgstr ""
 
-#. [unit_type]: id=Knight Errant, race=eltirean
+#. [unit_type]: id=EoS Knight Errant, race=eltirean
 #: Era_of_Strife/units/eltireans/Knight_Errant.cfg:4
 msgid "Knight Errant"
 msgstr ""
 
-#. [unit_type]: id=Guardian of the Sun, race=eltirean
-#. [unit_type]: id=Knight Errant, race=eltirean
-#. [unit_type]: id=Knight of the Sun, race=eltirean
+#. [unit_type]: id=EoS Guardian of the Sun, race=eltirean
+#. [unit_type]: id=EoS Knight Errant, race=eltirean
+#. [unit_type]: id=EoS Knight of the Sun, race=eltirean
 #: Era_of_Strife/units/eltireans/Knight_Guardian.cfg:19
 #: Era_of_Strife/units/eltireans/Knight_Errant.cfg:18
 #: Era_of_Strife/units/eltireans/Knight_Sun.cfg:18
@@ -1143,26 +1143,26 @@ msgid ""
 "guard and equipped with the best armor available to the Eltirean people."
 msgstr ""
 
-#. [unit_type]: id=Guardian of the Sun, race=eltirean
+#. [unit_type]: id=EoS Guardian of the Sun, race=eltirean
 #: Era_of_Strife/units/eltireans/Knight_Guardian.cfg:4
 msgid "Guardian of the Sun"
 msgstr ""
 
-#. [unit_type]: id=Knight of the Sun, race=eltirean
+#. [unit_type]: id=EoS Knight of the Sun, race=eltirean
 #: Era_of_Strife/units/eltireans/Knight_Sun.cfg:4
 msgid "Knight of the Sun"
 msgstr ""
 
-#. [unit_type]: id=Fury, race=eltirean
+#. [unit_type]: id=EoS Fury, race=eltirean
 #: Era_of_Strife/units/eltireans/Lady_Fury.cfg:4
 msgid "Fury"
 msgstr ""
 
-#. [unit_type]: id=Raging Mistress, race=eltirean
-#. [unit_type]: id=Fury, race=eltirean
-#. [unit_type]: id=Temptress, race=eltirean
-#. [unit_type]: id=Ladyofwar, race=eltirean
-#. [unit_type]: id=Siren, race=eltirean
+#. [unit_type]: id=EoS Raging Mistress, race=eltirean
+#. [unit_type]: id=EoS Fury, race=eltirean
+#. [unit_type]: id=EoS Temptress, race=eltirean
+#. [unit_type]: id=EoS Ladyofwar, race=eltirean
+#. [unit_type]: id=EoS Siren, race=eltirean
 #: Era_of_Strife/units/eltireans/Lady_Mistress.cfg:19
 #: Era_of_Strife/units/eltireans/Lady_Fury.cfg:18
 #: Era_of_Strife/units/eltireans/Lady_Temptress.cfg:18
@@ -1185,52 +1185,52 @@ msgstr ""
 msgid "stiletto"
 msgstr ""
 
-#. [unit_type]: id=Raging Mistress, race=eltirean
+#. [unit_type]: id=EoS Raging Mistress, race=eltirean
 #: Era_of_Strife/units/eltireans/Lady_Mistress.cfg:4
 msgid "Raging Mistress"
 msgstr ""
 
-#. [unit_type]: id=Siren, race=eltirean
+#. [unit_type]: id=EoS Siren, race=eltirean
 #: Era_of_Strife/units/eltireans/Lady_Siren.cfg:4
 msgid "Siren"
 msgstr ""
 
-#. [unit_type]: id=Temptress, race=eltirean
+#. [unit_type]: id=EoS Temptress, race=eltirean
 #: Era_of_Strife/units/eltireans/Lady_Temptress.cfg:4
 msgid "Temptress"
 msgstr ""
 
-#. [unit_type]: id=Ladyofwar, race=eltirean
+#. [unit_type]: id=EoS Ladyofwar, race=eltirean
 #: Era_of_Strife/units/eltireans/Lady_War.cfg:5
 msgid "Lady o`War"
 msgstr ""
 
-#. [unit_type]: id=Lightbringer, race=eltirean
+#. [unit_type]: id=EoS Lightbringer, race=eltirean
 #: Era_of_Strife/units/eltireans/Lightbringer.cfg:4
 msgid "Lightbringer"
 msgstr ""
 
-#. [unit_type]: id=Patrol Captain, race=eltirean
+#. [unit_type]: id=EoS Patrol Captain, race=eltirean
 #: Era_of_Strife/units/eltireans/Patrol_Captain.cfg:4
 msgid "Patrol Captain"
 msgstr ""
 
-#. [unit_type]: id=Pyromancer, race=eltirean
+#. [unit_type]: id=EoS Pyromancer, race=eltirean
 #: Era_of_Strife/units/eltireans/Pyromancer.cfg:4
 msgid "Pyromancer"
 msgstr ""
 
-#. [unit_type]: id=Sky Captain, race=eltirean
+#. [unit_type]: id=EoS Sky Captain, race=eltirean
 #: Era_of_Strife/units/eltireans/Sky_Captain.cfg:4
 msgid "Sky Captain"
 msgstr ""
 
-#. [unit_type]: id=Sky Lord, race=eltirean
+#. [unit_type]: id=EoS Sky Lord, race=eltirean
 #: Era_of_Strife/units/eltireans/Sky_Lord.cfg:4
 msgid "Sky Lord"
 msgstr ""
 
-#. [unit_type]: id=Sky Lord, race=eltirean
+#. [unit_type]: id=EoS Sky Lord, race=eltirean
 #: Era_of_Strife/units/eltireans/Sky_Lord.cfg:19
 msgid ""
 "Those not skilled with magic nor faithful enough who wish to be part of "
@@ -1240,12 +1240,12 @@ msgid ""
 "called the Glory skylords when they come to be trained."
 msgstr ""
 
-#. [unit_type]: id=Whirlpool Lord, race=eltirean
+#. [unit_type]: id=EoS Whirlpool Lord, race=eltirean
 #: Era_of_Strife/units/eltireans/Whirlpool_Lord.cfg:4
 msgid "Whirlpool Lord"
 msgstr ""
 
-#. [unit_type]: id=Wind Rider, race=windelemental
+#. [unit_type]: id=EoS Wind Rider, race=windelemental
 #: Era_of_Strife/units/eltireans/Wind_Rider.cfg:4
 msgid "Wind Rider"
 msgstr ""
@@ -1256,17 +1256,17 @@ msgstr ""
 msgid "wind punch"
 msgstr ""
 
-#. [unit_type]: id=Wind Strider, race=windelemental
+#. [unit_type]: id=EoS Wind Strider, race=windelemental
 #: Era_of_Strife/units/eltireans/Wind_Strider.cfg:4
 msgid "Wind Strider"
 msgstr ""
 
-#. [unit_type]: id=ArcaneArcher, race=human
+#. [unit_type]: id=EoS ArcaneArcher, race=human
 #: Era_of_Strife/units/eventide/ArcaneArcher.cfg:4
 msgid "Arcane Archer"
 msgstr ""
 
-#. [unit_type]: id=ArcaneArcher, race=human
+#. [unit_type]: id=EoS ArcaneArcher, race=human
 #: Era_of_Strife/units/eventide/ArcaneArcher.cfg:18
 msgid ""
 "Although their weapons are not particularly potent against undead, "
@@ -1283,12 +1283,12 @@ msgstr ""
 msgid "arcane arrow"
 msgstr ""
 
-#. [unit_type]: id=Auxilary, race=human
+#. [unit_type]: id=EoS Auxilary, race=human
 #: Era_of_Strife/units/eventide/Auxilary.cfg:4
 msgid "Auxiliary"
 msgstr ""
 
-#. [unit_type]: id=Auxilary, race=human
+#. [unit_type]: id=EoS Auxilary, race=human
 #: Era_of_Strife/units/eventide/Auxilary.cfg:17
 msgid ""
 "Not all Eventide are warriors by nature. However, when the bells of war call "
@@ -1298,12 +1298,12 @@ msgid ""
 "force."
 msgstr ""
 
-#. [unit_type]: id=Desperado, race=human
+#. [unit_type]: id=EoS Desperado, race=human
 #: Era_of_Strife/units/eventide/Desperado.cfg:5
 msgid "Desperado"
 msgstr ""
 
-#. [unit_type]: id=Desperado, race=human
+#. [unit_type]: id=EoS Desperado, race=human
 #: Era_of_Strife/units/eventide/Desperado.cfg:17
 msgid ""
 "The criminal and the insane are not wasted in Eventide society. Rather than "
@@ -1312,12 +1312,12 @@ msgid ""
 "exceptional scouts."
 msgstr ""
 
-#. [unit_type]: id=DiuBowmaid, race=human
+#. [unit_type]: id=EoS DiuBowmaid, race=human
 #: Era_of_Strife/units/eventide/Diu_Bowmaid.cfg:4
 msgid "Diu Bowmaiden"
 msgstr ""
 
-#. [unit_type]: id=DiuBowmaid, race=human
+#. [unit_type]: id=EoS DiuBowmaid, race=human
 #: Era_of_Strife/units/eventide/Diu_Bowmaid.cfg:19
 msgid ""
 "Carrying the light of day and the few remnants of honor that Diura embodied "
@@ -1326,12 +1326,12 @@ msgid ""
 "melee combat and fare poorly in close quarters."
 msgstr ""
 
-#. [unit_type]: id=DiuBowMistress, race=human
+#. [unit_type]: id=EoS DiuBowMistress, race=human
 #: Era_of_Strife/units/eventide/Diu_Bowmistress.cfg:4
 msgid "Diu Bowmistress"
 msgstr ""
 
-#. [unit_type]: id=DiuBowMistress, race=human
+#. [unit_type]: id=EoS DiuBowMistress, race=human
 #: Era_of_Strife/units/eventide/Diu_Bowmistress.cfg:18
 msgid ""
 "When a Bowmaiden has been recognized for her skill in archery, she is "
@@ -1340,12 +1340,12 @@ msgid ""
 "family, but often this formality is forgone while on the battlefield."
 msgstr ""
 
-#. [unit_type]: id=DiuKeenshot, race=human
+#. [unit_type]: id=EoS DiuKeenshot, race=human
 #: Era_of_Strife/units/eventide/Diu_Keenshot.cfg:4
 msgid "Diu Keenshot"
 msgstr ""
 
-#. [unit_type]: id=DiuKeenshot, race=human
+#. [unit_type]: id=EoS DiuKeenshot, race=human
 #: Era_of_Strife/units/eventide/Diu_Keenshot.cfg:19
 msgid ""
 "In every generation, only a handful of Bowmaidens have been recognized by "
@@ -1355,12 +1355,12 @@ msgid ""
 "with them in every step."
 msgstr ""
 
-#. [unit_type]: id=Dreadlord, race=human
+#. [unit_type]: id=EoS Dreadlord, race=human
 #: Era_of_Strife/units/eventide/Dreadlord.cfg:4
 msgid "Dreadlord"
 msgstr ""
 
-#. [unit_type]: id=Dreadlord, race=human
+#. [unit_type]: id=EoS Dreadlord, race=human
 #: Era_of_Strife/units/eventide/Dreadlord.cfg:19
 msgid ""
 "Dreadlords harken back to the golden age, bringing back memories of the "
@@ -1369,12 +1369,12 @@ msgid ""
 "combat, this virtue is multiplied severalfold."
 msgstr ""
 
-#. [unit_type]: id=EventideAlchemist, race=human
+#. [unit_type]: id=EoS EventideAlchemist, race=human
 #: Era_of_Strife/units/eventide/EventideAlchemist.cfg:4
 msgid "Eventide Alchemist"
 msgstr ""
 
-#. [unit_type]: id=EventideAlchemist, race=human
+#. [unit_type]: id=EoS EventideAlchemist, race=human
 #: Era_of_Strife/units/eventide/EventideAlchemist.cfg:21
 msgid ""
 "When an Herbalist has proven his loyalty to the Eventide, his superiors will "
@@ -1399,12 +1399,12 @@ msgstr ""
 msgid "poisoned dagger"
 msgstr ""
 
-#. [unit_type]: id=EventideHerbalist, race=human
+#. [unit_type]: id=EoS EventideHerbalist, race=human
 #: Era_of_Strife/units/eventide/EventideHerbalist.cfg:4
 msgid "Eventide Herbalist"
 msgstr ""
 
-#. [unit_type]: id=EventideHerbalist, race=human
+#. [unit_type]: id=EoS EventideHerbalist, race=human
 #: Era_of_Strife/units/eventide/EventideHerbalist.cfg:20
 msgid ""
 "The second foe the Eventide faced in their fervor for revenge were the "
@@ -1419,12 +1419,12 @@ msgid ""
 "knives."
 msgstr ""
 
-#. [unit_type]: id=EventidePoisoner, race=human
+#. [unit_type]: id=EoS EventidePoisoner, race=human
 #: Era_of_Strife/units/eventide/EventidePoisoner.cfg:4
 msgid "Eventide Poisoner"
 msgstr ""
 
-#. [unit_type]: id=EventidePoisoner, race=human
+#. [unit_type]: id=EoS EventidePoisoner, race=human
 #: Era_of_Strife/units/eventide/EventidePoisoner.cfg:19
 msgid ""
 "When faced with foes who have similarly eliminated their fear of both day "
@@ -1434,12 +1434,12 @@ msgid ""
 "and their knowledge of poison highly regarded in military use. "
 msgstr ""
 
-#. [unit_type]: id=Lineman, race=human
+#. [unit_type]: id=EoS Lineman, race=human
 #: Era_of_Strife/units/eventide/Lineman.cfg:4
 msgid "Lineman"
 msgstr ""
 
-#. [unit_type]: id=Lineman, race=human
+#. [unit_type]: id=EoS Lineman, race=human
 #: Era_of_Strife/units/eventide/Lineman.cfg:19
 msgid ""
 "Occasionally a lineman shows valor above and beyond his station. Offered a "
@@ -1459,12 +1459,12 @@ msgstr ""
 msgid "Linewoman"
 msgstr ""
 
-#. [unit_type]: id=Madcap, race=human
+#. [unit_type]: id=EoS Madcap, race=human
 #: Era_of_Strife/units/eventide/Madcap.cfg:4
 msgid "Madcap"
 msgstr ""
 
-#. [unit_type]: id=Madcap, race=human
+#. [unit_type]: id=EoS Madcap, race=human
 #: Era_of_Strife/units/eventide/Madcap.cfg:17
 msgid ""
 "Few Desperados escape death on the battlefield, however those few, rare, "
@@ -1472,12 +1472,12 @@ msgid ""
 "a 'Madcap.'"
 msgstr ""
 
-#. [unit_type]: id=Mariner, race=human
+#. [unit_type]: id=EoS Mariner, race=human
 #: Era_of_Strife/units/eventide/Mariner.cfg:4
 msgid "Mariner"
 msgstr ""
 
-#. [unit_type]: id=Mariner, race=human
+#. [unit_type]: id=EoS Mariner, race=human
 #: Era_of_Strife/units/eventide/Mariner.cfg:16
 msgid ""
 "All members of the Eventide whose profession involves ships learn to swim "
@@ -1493,12 +1493,12 @@ msgstr ""
 msgid "cutlass"
 msgstr ""
 
-#. [unit_type]: id=Navigator, race=human
+#. [unit_type]: id=EoS Navigator, race=human
 #: Era_of_Strife/units/eventide/Navigator.cfg:4
 msgid "Navigator"
 msgstr ""
 
-#. [unit_type]: id=Navigator, race=human
+#. [unit_type]: id=EoS Navigator, race=human
 #: Era_of_Strife/units/eventide/Navigator.cfg:17
 msgid ""
 "All members of the Eventide whose profession involves ships learn to swim "
@@ -1507,12 +1507,12 @@ msgid ""
 "truly feels at home when not near the water."
 msgstr ""
 
-#. [unit_type]: id=NoctGuardian, race=human
+#. [unit_type]: id=EoS NoctGuardian, race=human
 #: Era_of_Strife/units/eventide/Noct_Guardian.cfg:4
 msgid "Guardian of Noct"
 msgstr ""
 
-#. [unit_type]: id=NoctGuardian, race=human
+#. [unit_type]: id=EoS NoctGuardian, race=human
 #: Era_of_Strife/units/eventide/Noct_Guardian.cfg:19
 msgid ""
 "Of all Noct soldiers, only a select elite who have proven their worth in a "
@@ -1522,12 +1522,12 @@ msgid ""
 "kept from the common Eventide soldier."
 msgstr ""
 
-#. [unit_type]: id=NoctMacelord, race=human
+#. [unit_type]: id=EoS NoctMacelord, race=human
 #: Era_of_Strife/units/eventide/Noct_Macelord.cfg:4
 msgid "Noct Macelord"
 msgstr ""
 
-#. [unit_type]: id=NoctMacelord, race=human
+#. [unit_type]: id=EoS NoctMacelord, race=human
 #: Era_of_Strife/units/eventide/Noct_Macelord.cfg:18
 msgid ""
 "In Noct, the title of Macelord was only given to those who had shown "
@@ -1535,12 +1535,12 @@ msgid ""
 "heritage and only give the title of Macelord to exceptional individuals."
 msgstr ""
 
-#. [unit_type]: id=NoctMaceman, race=human
+#. [unit_type]: id=EoS NoctMaceman, race=human
 #: Era_of_Strife/units/eventide/Noct_Maceman.cfg:4
 msgid "Noct Maceman"
 msgstr ""
 
-#. [unit_type]: id=NoctMaceman, race=human
+#. [unit_type]: id=EoS NoctMaceman, race=human
 #: Era_of_Strife/units/eventide/Noct_Maceman.cfg:18
 msgid ""
 "These ruthless warriors harken back to the terrible reign of the Noct "
@@ -1550,12 +1550,12 @@ msgid ""
 "the eventide, the reputation of a Noct Maceman has not. "
 msgstr ""
 
-#. [unit_type]: id=Swabbie, race=human
+#. [unit_type]: id=EoS Swabbie, race=human
 #: Era_of_Strife/units/eventide/Swabbie.cfg:4
 msgid "Swabbie"
 msgstr ""
 
-#. [unit_type]: id=Swabbie, race=human
+#. [unit_type]: id=EoS Swabbie, race=human
 #: Era_of_Strife/units/eventide/Swabbie.cfg:32
 msgid ""
 "All members of the Eventide whose profession involves ships learn to swim "
@@ -1564,24 +1564,24 @@ msgid ""
 "truly feels at home when not near the water."
 msgstr ""
 
-#. [unit_type]: id=Gnoll, race=gnolls
+#. [unit_type]: id=EoS Gnoll, race=gnolls
 #: Era_of_Strife/units/gnolls/Gnoll.cfg:4
 msgid "Gnoll"
 msgstr ""
 
-#. [unit_type]: id=Gnoll, race=gnolls
-#. [unit_type]: id=Gnoll Sharpshooter, race=gnolls
+#. [unit_type]: id=EoS Gnoll, race=gnolls
+#. [unit_type]: id=EoS Gnoll Sharpshooter, race=gnolls
 #: Era_of_Strife/units/gnolls/Gnoll.cfg:17
 #: Era_of_Strife/units/gnolls/Gnoll_Sharpshooter.cfg:17
 msgid "TODO"
 msgstr ""
 
-#. [unit_type]: id=Gnoll Sharpeye, race=gnolls
+#. [unit_type]: id=EoS Gnoll Sharpeye, race=gnolls
 #: Era_of_Strife/units/gnolls/Gnoll_Sharpeye.cfg:4
 msgid "Sharpeye"
 msgstr ""
 
-#. [unit_type]: id=Gnoll Sharpeye, race=gnolls
+#. [unit_type]: id=EoS Gnoll Sharpeye, race=gnolls
 #: Era_of_Strife/units/gnolls/Gnoll_Sharpeye.cfg:19
 msgid ""
 "The Gnoll Sharpeyes have perfected their grand art of archery and have "
@@ -1591,17 +1591,17 @@ msgid ""
 "creatures take pride in their art, especially when using it to kill."
 msgstr ""
 
-#. [unit_type]: id=Gnoll Sharpshooter, race=gnolls
+#. [unit_type]: id=EoS Gnoll Sharpshooter, race=gnolls
 #: Era_of_Strife/units/gnolls/Gnoll_Sharpshooter.cfg:4
 msgid "Keeneye"
 msgstr ""
 
-#. [unit_type]: id=Minotaur Behemoth, race=minotaurs
+#. [unit_type]: id=EoS Minotaur Behemoth, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Behemoth.cfg:4
 msgid "Behemoth"
 msgstr ""
 
-#. [unit_type]: id=Minotaur Behemoth, race=minotaurs
+#. [unit_type]: id=EoS Minotaur Behemoth, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Behemoth.cfg:20
 msgid ""
 "The Behemoths were minotaurs who committed crimes that are so severe (i.e. "
@@ -1624,12 +1624,12 @@ msgstr ""
 msgid "maul"
 msgstr ""
 
-#. [unit_type]: id=Minotaur Ancient Behemoth, race=minotaurs
+#. [unit_type]: id=EoS Minotaur Ancient Behemoth, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Behemoth_Ancient.cfg:4
 msgid "Ancient Behemoth"
 msgstr ""
 
-#. [unit_type]: id=Minotaur Ancient Behemoth, race=minotaurs
+#. [unit_type]: id=EoS Minotaur Ancient Behemoth, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Behemoth_Ancient.cfg:21
 msgid ""
 "Over time, the powerful, arcane magic which distorted the minotaur that "
@@ -1646,12 +1646,12 @@ msgid ""
 "that they can easily be used as an anti-siege weapon."
 msgstr ""
 
-#. [unit_type]: id=Boar Cataphract, race=minotaurs
+#. [unit_type]: id=EoS Boar Cataphract, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Boar_Cataphract.cfg:4
 msgid "Cataphract"
 msgstr ""
 
-#. [unit_type]: id=Boar Cataphract, race=minotaurs
+#. [unit_type]: id=EoS Boar Cataphract, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Boar_Cataphract.cfg:36
 msgid ""
 "Cataphracts are the elite of the boar-riding forces of the minotaur forces; "
@@ -1670,12 +1670,12 @@ msgstr ""
 msgid "trample"
 msgstr ""
 
-#. [unit_type]: id=Boar Knight, race=minotaurs
+#. [unit_type]: id=EoS Boar Knight, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Boar_Knight.cfg:4
 msgid "Boar Knight"
 msgstr ""
 
-#. [unit_type]: id=Boar Knight, race=minotaurs
+#. [unit_type]: id=EoS Boar Knight, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Boar_Knight.cfg:35
 msgid ""
 "Boar Riders who know how to use their companions to their full potential are "
@@ -1684,12 +1684,12 @@ msgid ""
 "evergrowing bond."
 msgstr ""
 
-#. [unit_type]: id=Boar Rider, race=minotaurs
+#. [unit_type]: id=EoS Boar Rider, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Boar_Rider.cfg:4
 msgid "Boar Rider"
 msgstr ""
 
-#. [unit_type]: id=Boar Rider, race=minotaurs
+#. [unit_type]: id=EoS Boar Rider, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Boar_Rider.cfg:35
 msgid ""
 "Boar Riders mainly serve as scouts for the minotaur forces; however, they "
@@ -1697,24 +1697,24 @@ msgid ""
 "enemies or by using their enormous companions to crush them."
 msgstr ""
 
-#. [unit_type]: id=Minotaur Gore, race=minotaurs
+#. [unit_type]: id=EoS Minotaur Gore, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Gore.cfg:4
 msgid "Gore"
 msgstr ""
 
-#. [unit_type]: id=Minotaur Gore, race=minotaurs
+#. [unit_type]: id=EoS Minotaur Gore, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Gore.cfg:17
 msgid ""
 "The Gores are basically new recruits in the minotaur infantry or simply "
 "militia defending their territory."
 msgstr ""
 
-#. [unit_type]: id=Minotaur Overlord, race=minotaurs
+#. [unit_type]: id=EoS Minotaur Overlord, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Gore_Overlord.cfg:4
 msgid "Overlord"
 msgstr ""
 
-#. [unit_type]: id=Minotaur Overlord, race=minotaurs
+#. [unit_type]: id=EoS Minotaur Overlord, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Gore_Overlord.cfg:24
 msgid ""
 "A minotaur that has been recognized for their skill, leadership ability and "
@@ -1728,12 +1728,12 @@ msgid ""
 "behold."
 msgstr ""
 
-#. [unit_type]: id=Minotaur Rouser, race=minotaurs
+#. [unit_type]: id=EoS Minotaur Rouser, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Gore_Rouser.cfg:4
 msgid "Rouser"
 msgstr ""
 
-#. [unit_type]: id=Minotaur Rouser, race=minotaurs
+#. [unit_type]: id=EoS Minotaur Rouser, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Gore_Rouser.cfg:22
 msgid ""
 "The Rousers are the elite of the minotaur infantry who seek either "
@@ -1741,12 +1741,12 @@ msgid ""
 "obtain higher ranks in minotaur society."
 msgstr ""
 
-#. [unit_type]: id=Minotaur Savage, race=minotaurs
+#. [unit_type]: id=EoS Minotaur Savage, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Gore_Savage.cfg:4
 msgid "Savage"
 msgstr ""
 
-#. [unit_type]: id=Minotaur Savage, race=minotaurs
+#. [unit_type]: id=EoS Minotaur Savage, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Gore_Savage.cfg:19
 msgid ""
 "Unlike the rousers, savages have decided to take on a reputation of fear "
@@ -1757,12 +1757,12 @@ msgid ""
 "negative manner which will actually physically weaken them."
 msgstr ""
 
-#. [unit_type]: id=Minotaur Cutthroat, race=minotaurs
+#. [unit_type]: id=EoS Minotaur Cutthroat, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Kusarigama_Cutthroat.cfg:5
 msgid "Cutthroat"
 msgstr ""
 
-#. [unit_type]: id=Minotaur Cutthroat, race=minotaurs
+#. [unit_type]: id=EoS Minotaur Cutthroat, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Kusarigama_Cutthroat.cfg:19
 msgid ""
 "Kusarigamas are noble and highly useful weapons that are difficult to "
@@ -1782,12 +1782,12 @@ msgstr ""
 msgid "kusarigama"
 msgstr ""
 
-#. [unit_type]: id=Minotaur Executioner, race=minotaurs
+#. [unit_type]: id=EoS Minotaur Executioner, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Kusarigama_Executioner.cfg:4
 msgid "Executioner"
 msgstr ""
 
-#. [unit_type]: id=Minotaur Executioner, race=minotaurs
+#. [unit_type]: id=EoS Minotaur Executioner, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Kusarigama_Executioner.cfg:24
 msgid ""
 "Executioners are masters of the kusarigama, they have their own style of "
@@ -1799,12 +1799,12 @@ msgid ""
 "kusarigama such an effective weapon."
 msgstr ""
 
-#. [unit_type]: id=Minotaur Slayer, race=minotaurs
+#. [unit_type]: id=EoS Minotaur Slayer, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Kusarigama_Slayer.cfg:4
 msgid "Slayer"
 msgstr ""
 
-#. [unit_type]: id=Minotaur Slayer, race=minotaurs
+#. [unit_type]: id=EoS Minotaur Slayer, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Kusarigama_Slayer.cfg:23
 msgid ""
 "Learning how to properly and effectively wield a kusarigama is pure "
@@ -1816,12 +1816,12 @@ msgid ""
 "underestimated.."
 msgstr ""
 
-#. [unit_type]: id=Minotaur Elder, race=minotaurs
+#. [unit_type]: id=EoS Minotaur Elder, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Mage_Elder.cfg:4
 msgid "Elder"
 msgstr ""
 
-#. [unit_type]: id=Minotaur Elder, race=minotaurs
+#. [unit_type]: id=EoS Minotaur Elder, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Mage_Elder.cfg:22
 msgid ""
 "The Elders are incredibly powerful mages who represent the minotaur's "
@@ -1844,12 +1844,12 @@ msgstr ""
 msgid "aura blast"
 msgstr ""
 
-#. [unit_type]: id=Minotaur Mystic, race=minotaurs
+#. [unit_type]: id=EoS Minotaur Mystic, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Mage_Mystic.cfg:4
 msgid "Mystic"
 msgstr ""
 
-#. [unit_type]: id=Minotaur Mystic, race=minotaurs
+#. [unit_type]: id=EoS Minotaur Mystic, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Mage_Mystic.cfg:19
 msgid ""
 "Although the Warlocks and the Elders are more famous for their very lofty "
@@ -1861,12 +1861,12 @@ msgid ""
 "battle field, therefore they should not be taken lightly."
 msgstr ""
 
-#. [unit_type]: id=Minotaur Shaman, race=minotaurs
+#. [unit_type]: id=EoS Minotaur Shaman, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Mage_Shaman.cfg:4
 msgid "Shaman"
 msgstr ""
 
-#. [unit_type]: id=Minotaur Shaman, race=minotaurs
+#. [unit_type]: id=EoS Minotaur Shaman, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Mage_Shaman.cfg:20
 msgid ""
 "The Minotaur Shamans hold a lofty position in minotaur society, they either "
@@ -1875,12 +1875,12 @@ msgid ""
 "lacking a bit of experience they are still powerful."
 msgstr ""
 
-#. [unit_type]: id=Minotaur Warlock, race=minotaurs
+#. [unit_type]: id=EoS Minotaur Warlock, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Mage_Warlock.cfg:4
 msgid "Warlock"
 msgstr ""
 
-#. [unit_type]: id=Minotaur Warlock, race=minotaurs
+#. [unit_type]: id=EoS Minotaur Warlock, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Mage_Warlock.cfg:21
 msgid ""
 "The Minotaur Warlocks are very powerful mages that have a very important "
@@ -1889,12 +1889,12 @@ msgid ""
 "powerful aura combined with the crystals they wield."
 msgstr ""
 
-#. [unit_type]: id=Frozen Soul, race=undead
+#. [unit_type]: id=EoS Frozen Soul, race=undead
 #: Era_of_Strife/units/saurians/Frozen_Soul.cfg:4
 msgid "Frozen Soul"
 msgstr ""
 
-#. [unit_type]: id=Frozen Soul, race=undead
+#. [unit_type]: id=EoS Frozen Soul, race=undead
 #: Era_of_Strife/units/saurians/Frozen_Soul.cfg:19
 msgid ""
 "Frozen Souls are the souls of people and whatnot which are dreadfully forced "
@@ -1909,12 +1909,12 @@ msgstr ""
 msgid "frigid aura"
 msgstr ""
 
-#. [unit_type]: id=Ice Heart, race=undead
+#. [unit_type]: id=EoS Ice Heart, race=undead
 #: Era_of_Strife/units/saurians/Ice_Heart.cfg:4
 msgid "Ice Heart"
 msgstr ""
 
-#. [unit_type]: id=Ice Heart, race=undead
+#. [unit_type]: id=EoS Ice Heart, race=undead
 #: Era_of_Strife/units/saurians/Ice_Heart.cfg:19
 msgid ""
 "After enslaving many other souls with its ethereal bindings Ice Souls turn "
@@ -1922,27 +1922,27 @@ msgid ""
 "blasts and can fly further distances than before."
 msgstr ""
 
-#. [unit_type]: id=Saurian Lizard Master, race=lizard
+#. [unit_type]: id=EoS Saurian Lizard Master, race=lizard
 #: Era_of_Strife/units/saurians/Lizard_Master.cfg:4
 msgid "Lizard Master"
 msgstr ""
 
-#. [unit_type]: id=Saurian Lizard Rider, race=lizard
+#. [unit_type]: id=EoS Saurian Lizard Rider, race=lizard
 #: Era_of_Strife/units/saurians/Lizard_Rider.cfg:4
 msgid "Lizard Rider"
 msgstr ""
 
-#. [unit_type]: id=Saurian Assassin, race=lizard
+#. [unit_type]: id=EoS Saurian Assassin, race=lizard
 #: Era_of_Strife/units/saurians/Saurian_Assassin.cfg:4
 msgid "Saurian Assassin"
 msgstr ""
 
-#. [unit_type]: id=Saurian Elementalist, race=lizard
+#. [unit_type]: id=EoS Saurian Elementalist, race=lizard
 #: Era_of_Strife/units/saurians/Saurian_Elementalist.cfg:4
 msgid "Saurian Elementalist"
 msgstr ""
 
-#. [unit_type]: id=Saurian Healer, race=lizard
+#. [unit_type]: id=EoS Saurian Healer, race=lizard
 #: Era_of_Strife/units/saurians/Saurian_Healer.cfg:4
 msgid "Saurian Healer"
 msgstr ""
@@ -1954,12 +1954,12 @@ msgstr ""
 msgid "cold wave"
 msgstr ""
 
-#. [unit_type]: id=Saurian Hero, race=lizard
+#. [unit_type]: id=EoS Saurian Hero, race=lizard
 #: Era_of_Strife/units/saurians/Saurian_Hero.cfg:4
 msgid "Saurian Hero"
 msgstr ""
 
-#. [unit_type]: id=Saurian Holy, race=lizard
+#. [unit_type]: id=EoS Saurian Holy, race=lizard
 #: Era_of_Strife/units/saurians/Saurian_Holy.cfg:4
 msgid "Saurian Holy"
 msgstr ""
@@ -1969,7 +1969,7 @@ msgstr ""
 msgid "sacred missile"
 msgstr ""
 
-#. [unit_type]: id=Saurian Ice Lord, race=lizard
+#. [unit_type]: id=EoS Saurian Ice Lord, race=lizard
 #: Era_of_Strife/units/saurians/Saurian_Ice_Lord.cfg:4
 msgid "Saurian Ice Lord"
 msgstr ""
@@ -1987,47 +1987,47 @@ msgstr ""
 msgid "ice shards"
 msgstr ""
 
-#. [unit_type]: id=Saurian Knife thrower, race=lizard
+#. [unit_type]: id=EoS Saurian Knife thrower, race=lizard
 #: Era_of_Strife/units/saurians/Saurian_Knife_thrower.cfg:4
 msgid "Saurian Knife thrower"
 msgstr ""
 
-#. [unit_type]: id=Saurian Mage, race=lizard
+#. [unit_type]: id=EoS Saurian Mage, race=lizard
 #: Era_of_Strife/units/saurians/Saurian_Mage.cfg:4
 msgid "Saurian Mage"
 msgstr ""
 
-#. [unit_type]: id=Saurian Mage, race=lizard
+#. [unit_type]: id=EoS Saurian Mage, race=lizard
 #: Era_of_Strife/units/saurians/Saurian_Mage.cfg:20
 msgid "Saurians which practice cold magic."
 msgstr ""
 
-#. [unit_type]: id=Saurian Mystic, race=lizard
+#. [unit_type]: id=EoS Saurian Mystic, race=lizard
 #: Era_of_Strife/units/saurians/Saurian_Mystic.cfg:4
 msgid "Saurian Mystic"
 msgstr ""
 
-#. [unit_type]: id=Saurian Sage, race=lizard
+#. [unit_type]: id=EoS Saurian Sage, race=lizard
 #: Era_of_Strife/units/saurians/Saurian_Sage.cfg:4
 msgid "Saurian Sage"
 msgstr ""
 
-#. [unit_type]: id=Saurian Shockfrost, race=lizard
+#. [unit_type]: id=EoS Saurian Shockfrost, race=lizard
 #: Era_of_Strife/units/saurians/Saurian_Shockfrost.cfg:4
 msgid "Saurian Shockfrost"
 msgstr ""
 
-#. [unit_type]: id=Saurian Killer, race=lizard
+#. [unit_type]: id=EoS Saurian Killer, race=lizard
 #: Era_of_Strife/units/saurians/Saurian_Skulker.cfg:4
 msgid "Saurian Skulker"
 msgstr ""
 
-#. [unit_type]: id=Saurian Frosty, race=lizard
+#. [unit_type]: id=EoS Saurian Soulmage, race=lizard
 #: Era_of_Strife/units/saurians/Saurian_Soulmage.cfg:4
 msgid "Saurian Soulmage"
 msgstr ""
 
-#. [unit_type]: id=Saurian Trainee, race=lizard
+#. [unit_type]: id=EoS Saurian Trainee, race=lizard
 #: Era_of_Strife/units/saurians/Saurian_Trainee.cfg:4
 msgid "Saurian Trainee"
 msgstr ""
@@ -2037,17 +2037,17 @@ msgstr ""
 msgid "throwing knives"
 msgstr ""
 
-#. [unit_type]: id=Saurian Warrior, race=lizard
+#. [unit_type]: id=EoS Saurian Warrior, race=lizard
 #: Era_of_Strife/units/saurians/Saurian_Warrior.cfg:4
 msgid "Saurian Warrior"
 msgstr ""
 
-#. [unit_type]: id=Free Spider, race=monster
+#. [unit_type]: id=EoS Spider, race=monster
 #: Era_of_Strife/units/saurians/Spider.cfg:4
 msgid "Spider"
 msgstr ""
 
-#. [unit_type]: id=Free Spider, race=monster
+#. [unit_type]: id=EoS Spider, race=monster
 #: Era_of_Strife/units/saurians/Spider.cfg:20
 msgid ""
 "Big wild Spiders living in the Swamps are tamed by the Saurians who want to "
@@ -2055,32 +2055,32 @@ msgid ""
 "cruel death."
 msgstr ""
 
-#. [unit_type]: id=Swamp Fighter, race=lizard
+#. [unit_type]: id=EoS Swamp Fighter, race=lizard
 #: Era_of_Strife/units/saurians/Swamp_Fighter.cfg:4
 msgid "Swamp Fighter"
 msgstr ""
 
-#. [unit_type]: id=Swamp Guard, race=lizard
+#. [unit_type]: id=EoS Swamp Guard, race=lizard
 #: Era_of_Strife/units/saurians/Swamp_Guard.cfg:4
 msgid "Swamp Guard"
 msgstr ""
 
-#. [unit_type]: id=Swamp Margrave, race=lizard
+#. [unit_type]: id=EoS Swamp Margrave, race=lizard
 #: Era_of_Strife/units/saurians/Swamp_Margrave.cfg:4
 msgid "Swamp Margrave"
 msgstr ""
 
-#. [unit_type]: id=Swamp Saurian, race=lizard
+#. [unit_type]: id=EoS Swamp Saurian, race=lizard
 #: Era_of_Strife/units/saurians/Swamp_Saurian.cfg:4
 msgid "Swamp Saurian"
 msgstr ""
 
-#. [unit_type]: id=Swamp Warrior, race=lizard
+#. [unit_type]: id=EoS Swamp Warrior, race=lizard
 #: Era_of_Strife/units/saurians/Swamp_Warrior.cfg:4
 msgid "Swamp Warrior"
 msgstr ""
 
-#. [unit_type]: id=Free Tarantula, race=monster
+#. [unit_type]: id=EoS Tarantula, race=monster
 #: Era_of_Strife/units/saurians/Tarantula.cfg:4
 msgid "Tarantula"
 msgstr ""
