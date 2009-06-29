@@ -1,3 +1,15 @@
+v0.23
+Graphics:
+-Removed some dwarvish (now mainline) attack images from the Era.
+-Made the healing anims of saurian healer and holy look better.
+-Fixed the team colour on the dwarvish linebreaker.
+Units:
+-Moved unit ids to their own namespace to stop interference with other eras.
+-Renamed movetypes for similar reasons.
+-Reduced Skulker movement from 6 to 5 to fix an inconsistency.
+Bugs:
+-Fixed the unused disrupt ability.
+
 v0.22
 Units:
 -Followed the mainline reef rebalancing: land units' defence on reef now holds
