@@ -1,3 +1,20 @@
+v0.24
+Graphics:
+-New recolours for the Eltirean Bishop and Archbishop.
+-Sprite update for Saurian Soulmage
+-Lizard Rider got a new image and the lizard master inherited the old one.
+-Ice Heart got a new image.
+Units:
+-Ice Heart has 3-4 arcane drains melee (added) and 8-2 cold freezing ranged (was 7-3) attacks.
+-Saurian rebalancing:
+ * Knife thrower: 5 MP -> 6 MP
+ * Mage: 31 HP -> 25 HP, 5 MP -> 6 MP, 16 gold -> 17 gold
+ * Sage: 34 HP -> 28 HP, 5 MP -> 6 MP
+ * Lizard rider: 39 HP -> 43 HP, 6 MP -> 5 MP
+ * Swamp Saurian: 26 HP -> 30 HP, 6-2 -> 8-2 attack
+Bugs:
+-Battle Tutor works again
+
 v0.23
 Graphics:
 -Removed some dwarvish (now mainline) attack images from the Era.
